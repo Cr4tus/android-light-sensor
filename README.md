@@ -7,8 +7,9 @@ The app uses the light sensor present in the phone to change the background colo
 - Kotlin
 
 ## Frameworks & Libraries:
-- gradle
-- dagger hilt
+- Gradle - https://gradle.org
+- Dagger Hilt - https://developer.android.com/training/dependency-injection/hilt-android
+- Android Jetpack Suite (including Android Jetpack Compose for UI) - https://developer.android.com/jetpack
 
 ## Implementation:
 Sensor implementation:
